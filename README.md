@@ -1,5 +1,7 @@
 # Monster Hunter 3 Ultimate (MH3U) Always Have Map for Cemu
 
+> Also for MH3U on Cemu: [Damage Multiplier](https://github.com/Juan-Pablo-Barrientos/MH3U-Damage-Multiplier) multiplies the damage monsters take, for playing multiplayer-scaled quests solo.
+
 A Cemu graphic pack for **Monster Hunter 3 Ultimate** (MH3U, also called Monster Hunter Tri Ultimate) on the Wii U emulator. It shows the full map in quests without carrying the Map item, the same way Moga Woods always shows it. You no longer have to grab the Map from the supply box, and it doesn't take a pouch slot.
 
 ## Requirements
